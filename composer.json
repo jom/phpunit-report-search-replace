@@ -1,0 +1,15 @@
+{
+    "name": "jom/phpunit-report-search-replace",
+    "description": "Search and replace text in reports",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacob Morrison",
+            "email": "jacob@canis.io"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "bin": ["phpunit-search-replace"]
+}
